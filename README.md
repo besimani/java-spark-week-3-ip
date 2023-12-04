@@ -11,3 +11,9 @@
 ## About this project
  - It's about Wildlife tracking application
 
+## Setup Instructions
+ - git clone https://github.com/besimani/java-spark-week-3-ip
+ - open the cloned folder in intelliJ
+ - PSQL Database
+ - Go live
+

@@ -17,3 +17,8 @@
  - PSQL Database
  - Go live
 
+## Technologies used
+ - Java
+ - Spark Framework
+ - Graddle
+ - Git & Github

@@ -7,3 +7,7 @@
 ## Contact
  - Bernard Amaitsa Simani
  - Mobile: +254721790293
+
+## About this project
+ - It's about Wildlife tracking application
+

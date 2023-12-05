@@ -1,4 +1,4 @@
 package ke.co.safaricom;
 
-public class Animals {
+public class Animal {
 }
